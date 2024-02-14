@@ -1,1 +1,2 @@
-# Control-System-Project
+# Advanced Home Automation System with Wifi & Mobile Application Based Interface
+The project is being developed by Iot based devices & algorithms to focuses on the future home appliences & technologies. The project tries to address the advancment in communication sector by implememting better modules & technologies. Wifi based communication & mobile app interface services is being implemented to build home automation system. 
